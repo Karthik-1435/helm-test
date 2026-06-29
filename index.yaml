@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  karthik:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-29T18:56:40.566377669Z"
+    description: A Helm chart for Kubernetes
+    digest: e386c5ad8148f25d96386fc0667ead4d79fbefda84561017878259f35bc77528
+    name: karthik
+    type: application
+    urls:
+    - karthik-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-29T18:56:40.565410955Z"
